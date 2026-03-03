@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "googoo5",
+            "address": "https://anisetteserver.onrender.com"
+        }
+    ]
+}
